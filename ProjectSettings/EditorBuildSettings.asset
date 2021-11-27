@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Unity do zero/Modulo 4/Tarefa4.unity
+    guid: 4af497232908c5b439e1f57fda573aae
   m_configObjects: {}
